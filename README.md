@@ -8,8 +8,8 @@ The Android project you're looking at has been set up as a very basic app which
 makes a request to the above service and downloads the data.
 
 Your task is to write code to process the downloaded data (HINT: Look for
-`TODO` comments in the code) and output a list of only the cats, grouped under 
-a heading of their owner's gender and sorted in alphabetical order.
+`TODO` comments in the code) and output a list of only the cats, grouped by their 
+owner's gender and then sorted in alphabetical order.
 
 Example:
 
